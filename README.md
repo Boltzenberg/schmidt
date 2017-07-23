@@ -1,1 +1,1 @@
-# schmidt
+python -m SimpleHTTPServer
