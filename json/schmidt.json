@@ -1,166 +1,267 @@
 {
-  "name": "Wolfgang Schmidt 1",
-  "isFemale": true,
-  "spouse": "Barbara Leistner",
-  "spouseIsFemale": true,
+  "primary": {
+    "name": "Wolfgang Schmidt"
+  },
+  "spouse": {
+    "name": "Barbara Leistner",
+    "isFemale": true
+  },
   "children": [
     {
-      "name": "William John Schmidt",
-      "spouse": "Mary Dorothea Scherer",
-      "spouseIsFemale": true,
+      "primary": {
+        "name": "William John Schmidt"
+      },
+      "spouse": {
+        "name": "Mary Dorothea Scherer",
+        "isFemale": true
+      },
       "children": [
         {
-          "name": "John Wolfgang Schmidt",
-          "spouse": "Eva Elizabeth Datt",
-          "spouseIsFemale": true,
+          "primary": {
+            "name": "John Wolfgang Schmidt"
+          },
+          "spouse": {
+            "name": "Eva Elizabeth Datt",
+            "isFemale": true
+          },
           "children": [
             {
-              "name": "Marian Eva Schmidt",
-              "isFemale": true,
-              "spouse": "Alvin George Boltz",
+              "primary": {
+                "name": "Marian Eva Schmidt",
+                "isFemale": true
+              },
+              "spouse": {
+                "name": "Alvin George Boltz"
+              },
               "children": [
                 {
-                  "name": "Marlin Dean Boltz",
-                  "spouse": "Karen Joann Gillespie",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Marlin Dean Boltz"
+                  },
+                  "spouse": {
+                    "name": "Karen Joann Gillespie",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Teresa Lynn Boltz",
-                      "spouse": "Jonathan Paul Rosenberg",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Teresa Lynn Boltz",
+                        "isFemale": true
+                      },
+                      "spouse": {
+                        "name": "Jonathan Paul Rosenberg"
+                      }
                     },
                     {
-                      "name": "Christopher Dean Boltz",
-                      "spouse": "Jodie Anne Illig",
-                      "spouseIsFemale": true,
+                      "primary": {
+                        "name": "Christopher Dean Boltz"
+                      },
+                      "spouse": {
+                        "name": "Jodie Anne Illig",
+                        "isFemale": true
+                      },
                       "children": [
                         {
-                          "name": "Emily Grace Boltz",
-                          "isFemale": true
+                          "primary": {
+                            "name": "Emily Grace Boltz",
+                            "isFemale": true
+                          }
                         },
                         {
-                          "name": "Aiden Michael Boltz"
+                          "primary": {
+                            "name": "Aiden Michael Boltz"
+                          }
                         }
                       ]
                     },
                     {
-                      "name": "Adam John Boltz"
+                      "primary": {
+                        "name": "Adam John Boltz"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Susan Elaine Boltz",
-                  "isFemale": true,
-                  "spouse": "James Malcolm Peck",
+                  "primary": {
+                    "name": "Susan Elaine Boltz",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "James Malcolm Peck"
+                  },
                   "children": [
                     {
-                      "name": "Mathew Peck"
+                      "primary": {
+                        "name": "Mathew Peck"
+                      }
                     },
                     {
-                      "name": "Elizabeth Kristin Peck",
-                      "isFemale": true,
-                      "spouse": "Jason Mack"
+                      "primary": {
+                        "name": "Elizabeth Kristin Peck",
+                        "isFemale": true
+                      },
+                      "spouse": {
+                        "name": "Jason Mack"
+                      }
                     },
                     {
-                      "name": "Timothy Peck",
-                      "spouse": "Amanda Huss",
-                      "spouseIsFemale": true,
+                      "primary": {
+                        "name": "Timothy Peck"
+                      },
+                      "spouse": {
+                        "name": "Amanda Huss",
+                        "isFemale": true
+                      },
                       "children": [
                         {
-                          "name": "Logan James Peck"
+                          "primary": {
+                            "name": "Logan James Peck"
+                          }
                         },
                         {
-                          "name": "Olivia Peck",
-                          "isFemale": true
+                          "primary": {
+                            "name": "Olivia Peck",
+                            "isFemale": true
+                          }
                         }
                       ]
                     }
                   ]
                 },
                 {
-                  "name": "Evelyn Beth Boltz",
-                  "isFemale": true,
-                  "spouse": "Kevin Martin Kuric",
+                  "primary": {
+                    "name": "Evelyn Beth Boltz",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Kevin Martin Kuric"
+                  },
                   "children": [
                     {
-                      "name": "Brian Andrew Kuric"
+                      "primary": {
+                        "name": "Brian Andrew Kuric"
+                      }
                     },
                     {
-                      "name": "Justin David Kuric"
+                      "primary": {
+                        "name": "Justin David Kuric"
+                      }
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "Kenneth Schmidt",
-              "spouse": "Frances Porter",
-              "spouseIsFemale": true,
+              "primary": {
+                "name": "Kenneth Schmidt"
+              },
+              "spouse": {
+                "name": "Frances Porter",
+                "isFemale": true
+              },
               "children": [
                 {
-                  "name": "Keith Porter",
-                  "spouse": "Chelle unknown",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Keith Porter"
+                  },
+                  "spouse": {
+                    "name": "Chelle unknown",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Kerri Porter",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Kerri Porter",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "Craig Porter"
+                      "primary": {
+                        "name": "Craig Porter"
+                      }
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "Harry Schmidt",
-              "spouse": "Grace Graff",
-              "spouseIsFemale": true,
+              "primary": {
+                "name": "Harry Schmidt"
+              },
+              "spouse": {
+                "name": "Grace Graff",
+                "isFemale": true
+              },
               "children": [
                 {
-                  "name": "Shirley Schmidt Ekas",
-                  "isFemale": true,
-                  "spouse": "Frank Ekas",
+                  "primary": {
+                    "name": "Shirley Schmidt Ekas",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Frank Ekas"
+                  },
                   "children": [
                     {
-                      "name": "Krystle Ann Ekas",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Krystle Ann Ekas",
+                        "isFemale": true
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Linda Schmidt",
-                  "isFemale": true,
-                  "spouse": "Michael Cehily",
+                  "primary": {
+                    "name": "Linda Schmidt",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Michael Cehily"
+                  },
                   "children": [
                     {
-                      "name": "Clint Cehily"
+                      "primary": {
+                        "name": "Clint Cehily"
+                      }
                     },
                     {
-                      "name": "Lindsay Cehily",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Lindsay Cehily",
+                        "isFemale": true
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Larry William Schmidt",
-                  "spouse": "Gail Susan Fisher",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Larry William Schmidt"
+                  },
+                  "spouse": {
+                    "name": "Gail Susan Fisher",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Larry William Schmidt",
+                      "primary": {
+                        "name": "Larry William Schmidt"
+                      },
                       "children": [
                         {
-                          "name": "Trenton Davis Schmidt"
+                          "primary": {
+                            "name": "Trenton Davis Schmidt"
+                          }
                         }
                       ]
                     },
                     {
-                      "name": "Jeremy LeRoy Schmidt",
+                      "primary": {
+                        "name": "Jeremy LeRoy Schmidt"
+                      },
                       "children": [
                         {
-                          "name": "Dakoda James Schmidt"
+                          "primary": {
+                            "name": "Dakoda James Schmidt"
+                          }
                         }
                       ]
                     }
@@ -169,45 +270,73 @@
               ]
             },
             {
-              "name": "Velma Mildred Schmidt",
-              "isFemale": true,
-              "spouse": "Carl Henry Boltz",
+              "primary": {
+                "name": "Velma Mildred Schmidt",
+                "isFemale": true
+              },
+              "spouse": {
+                "name": "Carl Henry Boltz"
+              },
               "children": [
                 {
-                  "name": "Ronald LaVerne Boltz",
-                  "spouse": "Amy Lynn McCollum",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Ronald LaVerne Boltz"
+                  },
+                  "spouse": {
+                    "name": "Amy Lynn McCollum",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Steven Carl Boltz"
+                      "primary": {
+                        "name": "Steven Carl Boltz"
+                      }
                     },
                     {
-                      "name": "Rachel Louise Boltz",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Rachel Louise Boltz",
+                        "isFemale": true
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Dennis Carl Boltz",
-                  "spouse": "Hope Mason",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Dennis Carl Boltz"
+                  },
+                  "spouse": {
+                    "name": "Hope Mason",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Lori Ann Boltz",
-                      "isFemale": true,
-                      "spouse": "David Serenda"
+                      "primary": {
+                        "name": "Lori Ann Boltz",
+                        "isFemale": true
+                      },
+                      "spouse": {
+                        "name": "David Serenda"
+                      }
                     },
                     {
-                      "name": "Rebecca Leigh Boltz",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Rebecca Leigh Boltz",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "Amy Denise Boltz",
-                      "isFemale": true,
-                      "spouse": "Joshua Turner",
+                      "primary": {
+                        "name": "Amy Denise Boltz",
+                        "isFemale": true
+                      },
+                      "spouse": {
+                        "name": "Joshua Turner"
+                      },
                       "children": [
                         {
-                          "name": "Ethan Issac Turner"
+                          "primary": {
+                            "name": "Ethan Issac Turner"
+                          }
                         }
                       ]
                     }
@@ -216,772 +345,1228 @@
               ]
             },
             {
-              "name": "Erla Mae Schmidt",
-              "isFemale": true,
-              "spouse": "Charles Montrose Miller",
+              "primary": {
+                "name": "Erla Mae Schmidt",
+                "isFemale": true
+              },
+              "spouse": {
+                "name": "Charles Montrose Miller"
+              },
               "children": [
                 {
-                  "name": "Charles Montrose Miller Jr.",
-                  "spouse": "Dolores Horan",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Charles Montrose Miller Jr."
+                  },
+                  "spouse": {
+                    "name": "Dolores Horan",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Andrew Charles Miller"
+                      "primary": {
+                        "name": "Andrew Charles Miller"
+                      }
                     },
                     {
-                      "name": "Matthew Thomas Miller"
+                      "primary": {
+                        "name": "Matthew Thomas Miller"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Christopher Mark Miller",
-                  "spouse": "Arlene Ordonio",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Christopher Mark Miller"
+                  },
+                  "spouse": {
+                    "name": "Arlene Ordonio",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Lauren Nicole Miller",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Lauren Nicole Miller",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "Ethan Michael Miller"
+                      "primary": {
+                        "name": "Ethan Michael Miller"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Craig Matthew Miller"
+                  "primary": {
+                    "name": "Craig Matthew Miller"
+                  }
                 }
               ]
             },
             {
-              "name": "Elizabeth J. Betty Schmidt",
-              "isFemale": true,
-              "spouse": "McCormick Robert L",
+              "primary": {
+                "name": "Elizabeth J. Betty Schmidt",
+                "isFemale": true
+              },
+              "spouse": {
+                "name": "McCormick Robert L"
+              },
               "children": [
                 {
-                  "name": "Leslie Anne McCormick",
-                  "isFemale": true,
-                  "spouse": "Corey L. Eichelberger",
+                  "primary": {
+                    "name": "Leslie Anne McCormick",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Corey L. Eichelberger"
+                  },
                   "children": [
                     {
-                      "name": "Zachary Wolfgang Eichelberger"
+                      "primary": {
+                        "name": "Zachary Wolfgang Eichelberger"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Robert L. Bobby McCormick Jr.",
-                  "spouse": "Penny Wood",
-                  "spouseIsFemale": true
+                  "primary": {
+                    "name": "Robert L. Bobby McCormick Jr."
+                  },
+                  "spouse": {
+                    "name": "Penny Wood",
+                    "isFemale": true
+                  }
                 },
                 {
-                  "name": "Greg Alan McCormick"
+                  "primary": {
+                    "name": "Greg Alan McCormick"
+                  }
                 },
                 {
-                  "name": "John Douglas McCormick",
-                  "spouse": "Lauren Diffenderfz",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "John Douglas McCormick"
+                  },
+                  "spouse": {
+                    "name": "Lauren Diffenderfz",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Benjamin Tacker McCormick"
+                      "primary": {
+                        "name": "Benjamin Tacker McCormick"
+                      }
                     },
                     {
-                      "name": "Lily Jordan McCormick",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Lily Jordan McCormick",
+                        "isFemale": true
+                      }
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "Lyle Schmidt",
-              "spouse": "Elizabeth Betty Campbell",
-              "spouseIsFemale": true,
+              "primary": {
+                "name": "Lyle Schmidt"
+              },
+              "spouse": {
+                "name": "Elizabeth Betty Campbell",
+                "isFemale": true
+              },
               "children": [
                 {
-                  "name": "Jonna Schmidt",
-                  "isFemale": true
+                  "primary": {
+                    "name": "Jonna Schmidt",
+                    "isFemale": true
+                  }
                 },
                 {
-                  "name": "Paul Schmidt",
-                  "spouse": "Carol Henderson",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Paul Schmidt"
+                  },
+                  "spouse": {
+                    "name": "Carol Henderson",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Anthony Madley"
+                      "primary": {
+                        "name": "Anthony Madley"
+                      }
                     },
                     {
-                      "name": "Nicolas Schmidt"
+                      "primary": {
+                        "name": "Nicolas Schmidt"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "David Schmidt"
+                  "primary": {
+                    "name": "David Schmidt"
+                  }
                 }
               ]
             }
           ]
         },
         {
-          "name": "Walter William Schmidt",
-          "spouse": "Evelyn Pfabe",
-          "spouseIsFemale": true,
+          "primary": {
+            "name": "Walter William Schmidt"
+          },
+          "spouse": {
+            "name": "Evelyn Pfabe",
+            "isFemale": true
+          },
           "children": [
             {
-              "name": "Mary Louise Schmidt",
-              "isFemale": true,
-              "spouse": "Walter Wunderlick",
+              "primary": {
+                "name": "Mary Louise Schmidt",
+                "isFemale": true
+              },
+              "spouse": {
+                "name": "Walter Wunderlick"
+              },
               "children": [
                 {
-                  "name": "Kathleen Wunderlick",
-                  "isFemale": true,
-                  "spouse": "Robert Young",
+                  "primary": {
+                    "name": "Kathleen Wunderlick",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Robert Young"
+                  },
                   "children": [
                     {
-                      "name": "Emily Young",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Emily Young",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "Andrew Young"
+                      "primary": {
+                        "name": "Andrew Young"
+                      }
                     },
                     {
-                      "name": "Daniel Young"
+                      "primary": {
+                        "name": "Daniel Young"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "David Wunderlick",
-                  "spouse": "Sherri Lewis",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "David Wunderlick"
+                  },
+                  "spouse": {
+                    "name": "Sherri Lewis",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Timothy Ryan Wunderlick"
+                      "primary": {
+                        "name": "Timothy Ryan Wunderlick"
+                      }
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "William Billy Walter Schmidt"
+              "primary": {
+                "name": "William Billy Walter Schmidt"
+              }
             }
           ]
         },
         {
-          "name": "William Louis Schmidt",
-          "spouse": "Cornelia Schroeder",
-          "spouseIsFemale": true,
+          "primary": {
+            "name": "William Louis Schmidt"
+          },
+          "spouse": {
+            "name": "Cornelia Schroeder",
+            "isFemale": true
+          },
           "children": [
             {
-              "name": "Alvin Schmidt",
-              "spouse": "Amy unknown",
-              "spouseIsFemale": true,
+              "primary": {
+                "name": "Alvin Schmidt"
+              },
+              "spouse": {
+                "name": "Amy unknown",
+                "isFemale": true
+              },
               "children": [
                 {
-                  "name": "Harley Schmidt",
-                  "spouse": "Carol unknown",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Harley Schmidt"
+                  },
+                  "spouse": {
+                    "name": "Carol unknown",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Hero Schmidt"
+                      "primary": {
+                        "name": "Hero Schmidt"
+                      }
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "William Bill Schmidt",
-              "spouse": "Ramona Reader",
-              "spouseIsFemale": true,
+              "primary": {
+                "name": "William Bill Schmidt"
+              },
+              "spouse": {
+                "name": "Ramona Reader",
+                "isFemale": true
+              },
               "children": [
                 {
-                  "name": "Laura Schmidt",
-                  "isFemale": true,
-                  "spouse": "Mark Campbell",
+                  "primary": {
+                    "name": "Laura Schmidt",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Mark Campbell"
+                  },
                   "children": [
                     {
-                      "name": "Zachary Zivic"
+                      "primary": {
+                        "name": "Zachary Zivic"
+                      }
                     },
                     {
-                      "name": "Christian Zivic"
+                      "primary": {
+                        "name": "Christian Zivic"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "William Bill Schmidt",
-                  "spouse": "Kelly Heckel",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "William Bill Schmidt"
+                  },
+                  "spouse": {
+                    "name": "Kelly Heckel",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Angela Schmidt",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Angela Schmidt",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "Wesley Schmidt"
+                      "primary": {
+                        "name": "Wesley Schmidt"
+                      }
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "Dennis Schmidt",
-              "spouse": "Inez unknown",
-              "spouseIsFemale": true,
+              "primary": {
+                "name": "Dennis Schmidt"
+              },
+              "spouse": {
+                "name": "Inez unknown",
+                "isFemale": true
+              },
               "children": [
                 {
-                  "name": "Byron Schmidt",
-                  "spouse": "Connie unknown",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Byron Schmidt"
+                  },
+                  "spouse": {
+                    "name": "Connie unknown",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Hannah Schmidt",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Hannah Schmidt",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "Sarah Schmidt",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Sarah Schmidt",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "Katie Schmidt",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Katie Schmidt",
+                        "isFemale": true
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Tracy Schmidt",
-                  "isFemale": true,
-                  "spouse": "Jim unknown",
+                  "primary": {
+                    "name": "Tracy Schmidt",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Jim unknown"
+                  },
                   "children": [
                     {
-                      "name": "Anthony unknown"
+                      "primary": {
+                        "name": "Anthony unknown"
+                      }
                     },
                     {
-                      "name": "Zachary unknown"
+                      "primary": {
+                        "name": "Zachary unknown"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Wesley Schmidt",
-                  "spouse": "Linda unknown",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Wesley Schmidt"
+                  },
+                  "spouse": {
+                    "name": "Linda unknown",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Austin Schmidt"
+                      "primary": {
+                        "name": "Austin Schmidt"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Wayne Schmidt",
-                  "spouse": "Marla unknown",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Wayne Schmidt"
+                  },
+                  "spouse": {
+                    "name": "Marla unknown",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "unknown Schmidt"
+                      "primary": {
+                        "name": "unknown Schmidt"
+                      }
                     },
                     {
-                      "name": "unknown Schmidt",
-                      "isFemale": true
+                      "primary": {
+                        "name": "unknown Schmidt",
+                        "isFemale": true
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Andrew Schmidt",
-                  "spouse": "Susan unknown",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Andrew Schmidt"
+                  },
+                  "spouse": {
+                    "name": "Susan unknown",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "unknown Schmidt"
+                      "primary": {
+                        "name": "unknown Schmidt"
+                      }
                     },
                     {
-                      "name": "unknown Schmidt"
+                      "primary": {
+                        "name": "unknown Schmidt"
+                      }
                     },
                     {
-                      "name": "unknown Schmidt"
+                      "primary": {
+                        "name": "unknown Schmidt"
+                      }
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "Delmar Schmidt",
-              "spouse": "Karen Ryan",
-              "spouseIsFemale": true,
+              "primary": {
+                "name": "Delmar Schmidt"
+              },
+              "spouse": {
+                "name": "Karen Ryan",
+                "isFemale": true
+              },
               "children": [
                 {
-                  "name": "Matthew Schmidt",
-                  "spouse": "Gina unknown",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Matthew Schmidt"
+                  },
+                  "spouse": {
+                    "name": "Gina unknown",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Matthew Schmidt",
-                      "spouse": "unknown Schmidt",
-                      "spouseIsFemale": true
+                      "primary": {
+                        "name": "Matthew Schmidt"
+                      },
+                      "spouse": {
+                        "name": "unknown Schmidt",
+                        "isFemale": true
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Jennifer Schmidt",
-                  "isFemale": true,
-                  "spouse": "unknown",
+                  "primary": {
+                    "name": "Jennifer Schmidt",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "unknown"
+                  },
                   "children": [
                     {
-                      "name": "Unknown unknown"
+                      "primary": {
+                        "name": "Unknown unknown"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Jodi Schmidt",
-                  "isFemale": true,
-                  "spouse": "Al unknown",
+                  "primary": {
+                    "name": "Jodi Schmidt",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Al unknown"
+                  },
                   "children": [
                     {
-                      "name": "Chad unknown"
+                      "primary": {
+                        "name": "Chad unknown"
+                      }
                     },
                     {
-                      "name": "Garret unknown"
+                      "primary": {
+                        "name": "Garret unknown"
+                      }
                     },
                     {
-                      "name": "Meghan unknown",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Meghan unknown",
+                        "isFemale": true
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Mark Schmidt",
-                  "spouse": "unknown",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Mark Schmidt"
+                  },
+                  "spouse": {
+                    "name": "unknown",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Jacob Jake Schmidt"
+                      "primary": {
+                        "name": "Jacob Jake Schmidt"
+                      }
                     },
                     {
-                      "name": "unknown Schmidt"
+                      "primary": {
+                        "name": "unknown Schmidt"
+                      }
                     },
                     {
-                      "name": "unknown Schmidt"
+                      "primary": {
+                        "name": "unknown Schmidt"
+                      }
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "Laverne Schmidt",
-              "spouse": "Patricia unknown",
-              "spouseIsFemale": true,
+              "primary": {
+                "name": "Laverne Schmidt"
+              },
+              "spouse": {
+                "name": "Patricia unknown",
+                "isFemale": true
+              },
               "children": [
                 {
-                  "name": "Amy Schmidt",
-                  "isFemale": true,
-                  "spouse": "Chuck Fix",
+                  "primary": {
+                    "name": "Amy Schmidt",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Chuck Fix"
+                  },
                   "children": [
                     {
-                      "name": "Cayden Fix"
+                      "primary": {
+                        "name": "Cayden Fix"
+                      }
                     },
                     {
-                      "name": "Ryan Fix"
+                      "primary": {
+                        "name": "Ryan Fix"
+                      }
                     },
                     {
-                      "name": "Ryleigh Fix",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Ryleigh Fix",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "Camry Fix",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Camry Fix",
+                        "isFemale": true
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Joseph Schmidt"
+                  "primary": {
+                    "name": "Joseph Schmidt"
+                  }
                 }
               ]
             }
           ]
         },
         {
-          "name": "Andrew Wolfgang Schmidt",
-          "spouse": "Elma Wetzel",
-          "spouseIsFemale": true,
+          "primary": {
+            "name": "Andrew Wolfgang Schmidt"
+          },
+          "spouse": {
+            "name": "Elma Wetzel",
+            "isFemale": true
+          },
           "children": [
             {
-              "name": "Louis Andrew Schmidt",
-              "spouse": "Louise Norris",
-              "spouseIsFemale": true,
+              "primary": {
+                "name": "Louis Andrew Schmidt"
+              },
+              "spouse": {
+                "name": "Louise Norris",
+                "isFemale": true
+              },
               "children": [
                 {
-                  "name": "Linda Schmidt",
-                  "isFemale": true,
-                  "spouse": "Randy Wyant",
+                  "primary": {
+                    "name": "Linda Schmidt",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Randy Wyant"
+                  },
                   "children": [
                     {
-                      "name": "Valeri Wyant",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Valeri Wyant",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "Phillip Wyant"
+                      "primary": {
+                        "name": "Phillip Wyant"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "David Schmidt",
-                  "spouse": "Audrey unknown",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "David Schmidt"
+                  },
+                  "spouse": {
+                    "name": "Audrey unknown",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "unknown Schmidt"
+                      "primary": {
+                        "name": "unknown Schmidt"
+                      }
                     },
                     {
-                      "name": "unknown Schmidt"
+                      "primary": {
+                        "name": "unknown Schmidt"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Del Michael Schmidt",
-                  "spouse": "Nancy unknown",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Del Michael Schmidt"
+                  },
+                  "spouse": {
+                    "name": "Nancy unknown",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Michelle Schmidt",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Michelle Schmidt",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "Tyler Schmidt"
+                      "primary": {
+                        "name": "Tyler Schmidt"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Patty Schmidt",
-                  "isFemale": true,
-                  "spouse": "Mark Tarosky",
+                  "primary": {
+                    "name": "Patty Schmidt",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Mark Tarosky"
+                  },
                   "children": [
                     {
-                      "name": "Joleen Tarosky",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Joleen Tarosky",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "Tamara Tarosky",
-                      "isFemale": true,
-                      "spouse": "unknown",
+                      "primary": {
+                        "name": "Tamara Tarosky",
+                        "isFemale": true
+                      },
+                      "spouse": {
+                        "name": "unknown"
+                      },
                       "children": [
                         {
-                          "name": "unknown unknown"
+                          "primary": {
+                            "name": "unknown unknown"
+                          }
                         },
                         {
-                          "name": "unknown unknown"
+                          "primary": {
+                            "name": "unknown unknown"
+                          }
                         },
                         {
-                          "name": "unknown unknown"
+                          "primary": {
+                            "name": "unknown unknown"
+                          }
                         }
                       ]
                     },
                     {
-                      "name": "Kimberly Tarosky",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Kimberly Tarosky",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "Abigail Tarosky",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Abigail Tarosky",
+                        "isFemale": true
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Pam Schmidt",
-                  "isFemale": true,
-                  "spouse": "Charles Rupp",
+                  "primary": {
+                    "name": "Pam Schmidt",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Charles Rupp"
+                  },
                   "children": [
                     {
-                      "name": "Andrew Rupp"
+                      "primary": {
+                        "name": "Andrew Rupp"
+                      }
                     },
                     {
-                      "name": "unknown Rupp"
+                      "primary": {
+                        "name": "unknown Rupp"
+                      }
                     },
                     {
-                      "name": "unknown Rupp",
-                      "isFemale": true
+                      "primary": {
+                        "name": "unknown Rupp",
+                        "isFemale": true
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Sandra Schmidt",
-                  "isFemale": true,
-                  "spouse": "unknown Silvis",
+                  "primary": {
+                    "name": "Sandra Schmidt",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "unknown Silvis"
+                  },
                   "children": [
                     {
-                      "name": "Chase Silvis"
+                      "primary": {
+                        "name": "Chase Silvis"
+                      }
                     },
                     {
-                      "name": "unknown Silvis"
+                      "primary": {
+                        "name": "unknown Silvis"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Robert Schmidt",
-                  "spouse": "unknown unknown",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Robert Schmidt"
+                  },
+                  "spouse": {
+                    "name": "unknown unknown",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Bobbi Schmidt",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Bobbi Schmidt",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "Michael Schmidt"
+                      "primary": {
+                        "name": "Michael Schmidt"
+                      }
                     },
                     {
-                      "name": "unknown Schmidt"
+                      "primary": {
+                        "name": "unknown Schmidt"
+                      }
                     },
                     {
-                      "name": "unknown Schmidt"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Dorthea Sis Schmidt",
-              "isFemale": true,
-              "spouse": "Harold Harvey",
-              "children": [
-                {
-                  "name": "Keith Harvey",
-                  "spouse": "Cheryl unknown",
-                  "spouseIsFemale": true,
-                  "children": [
-                    {
-                      "name": "Connor Harvey"
-                    },
-                    {
-                      "name": "Shane Harvey"
-                    },
-                    {
-                      "name": "Dillon Harvey"
-                    }
-                  ]
-                },
-                {
-                  "name": "Roger Harvey",
-                  "spouse": "Linda Wallace-Rombach",
-                  "spouseIsFemale": true,
-                  "children": [
-                    {
-                      "name": "Alica Harvey",
-                      "isFemale": true
-                    },
-                    {
-                      "name": "Andrew J Harvey"
-                    },
-                    {
-                      "name": "Lucas D Harvey"
-                    },
-                    {
-                      "name": "Meghan N Harvey",
-                      "isFemale": true
-                    },
-                    {
-                      "name": "Collin M Harvey"
-                    }
-                  ]
-                },
-                {
-                  "name": "Mark Harvey"
-                }
-              ]
-            },
-            {
-              "name": "Paul William Schmidt",
-              "spouse": "Vivian Gamble",
-              "spouseIsFemale": true,
-              "children": [
-                {
-                  "name": "Paul Sonny William Schmidt Jr.",
-                  "spouse": "Kathy Chadwell",
-                  "spouseIsFemale": true,
-                  "children": [
-                    {
-                      "name": "Paul PJ William Schmidt III"
-                    }
-                  ]
-                },
-                {
-                  "name": "Debra Ann Schmidt",
-                  "isFemale": true,
-                  "spouse": "Patrick David Rager",
-                  "children": [
-                    {
-                      "name": "Madison Nicole Vivian Rager",
-                      "isFemale": true
-                    },
-                    {
-                      "name": "Hannah Paige Rager",
-                      "isFemale": true
-                    }
-                  ]
-                },
-                {
-                  "name": "James Butch Donald Schmidt",
-                  "spouse": "Desiree Mull",
-                  "spouseIsFemale": true,
-                  "children": [
-                    {
-                      "name": "Tamzan Rose Rose Schmidt",
-                      "isFemale": true
-                    },
-                    {
-                      "name": "Tristan Boo James Schmidt"
-                    },
-                    {
-                      "name": "Karlee Reese Schmidt",
-                      "isFemale": true
+                      "primary": {
+                        "name": "unknown Schmidt"
+                      }
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "Betty Schmidt",
-              "isFemale": true,
-              "spouse": "Bernie Shulick",
+              "primary": {
+                "name": "Dorthea Sis Schmidt",
+                "isFemale": true
+              },
+              "spouse": {
+                "name": "Harold Harvey"
+              },
               "children": [
                 {
-                  "name": "Bernie Bud Shulick",
-                  "spouse": "unknown",
-                  "spouseIsFemale": true
-                },
-                {
-                  "name": "Thomas Tom Shulick",
-                  "spouse": "Leslie unknown",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Keith Harvey"
+                  },
+                  "spouse": {
+                    "name": "Cheryl unknown",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "Thomas Shulick"
+                      "primary": {
+                        "name": "Connor Harvey"
+                      }
+                    },
+                    {
+                      "primary": {
+                        "name": "Shane Harvey"
+                      }
+                    },
+                    {
+                      "primary": {
+                        "name": "Dillon Harvey"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "primary": {
+                    "name": "Roger Harvey"
+                  },
+                  "spouse": {
+                    "name": "Linda Wallace-Rombach",
+                    "isFemale": true
+                  },
+                  "children": [
+                    {
+                      "primary": {
+                        "name": "Alica Harvey",
+                        "isFemale": true
+                      }
+                    },
+                    {
+                      "primary": {
+                        "name": "Andrew J Harvey"
+                      }
+                    },
+                    {
+                      "primary": {
+                        "name": "Lucas D Harvey"
+                      }
+                    },
+                    {
+                      "primary": {
+                        "name": "Meghan N Harvey",
+                        "isFemale": true
+                      }
+                    },
+                    {
+                      "primary": {
+                        "name": "Collin M Harvey"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "primary": {
+                    "name": "Mark Harvey"
+                  }
+                }
+              ]
+            },
+            {
+              "primary": {
+                "name": "Paul William Schmidt"
+              },
+              "spouse": {
+                "name": "Vivian Gamble",
+                "isFemale": true
+              },
+              "children": [
+                {
+                  "primary": {
+                    "name": "Paul Sonny William Schmidt Jr."
+                  },
+                  "spouse": {
+                    "name": "Kathy Chadwell",
+                    "isFemale": true
+                  },
+                  "children": [
+                    {
+                      "primary": {
+                        "name": "Paul PJ William Schmidt III"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "primary": {
+                    "name": "Debra Ann Schmidt",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Patrick David Rager"
+                  },
+                  "children": [
+                    {
+                      "primary": {
+                        "name": "Madison Nicole Vivian Rager",
+                        "isFemale": true
+                      }
+                    },
+                    {
+                      "primary": {
+                        "name": "Hannah Paige Rager",
+                        "isFemale": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "primary": {
+                    "name": "James Butch Donald Schmidt"
+                  },
+                  "spouse": {
+                    "name": "Desiree Mull",
+                    "isFemale": true
+                  },
+                  "children": [
+                    {
+                      "primary": {
+                        "name": "Tamzan Rose Rose Schmidt",
+                        "isFemale": true
+                      }
+                    },
+                    {
+                      "primary": {
+                        "name": "Tristan Boo James Schmidt"
+                      }
+                    },
+                    {
+                      "primary": {
+                        "name": "Karlee Reese Schmidt",
+                        "isFemale": true
+                      }
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "Helen Schmidt",
-              "isFemale": true,
-              "spouse": "Cletus Skrabak",
+              "primary": {
+                "name": "Betty Schmidt",
+                "isFemale": true
+              },
+              "spouse": {
+                "name": "Bernie Shulick"
+              },
               "children": [
                 {
-                  "name": "Judy Skrabak",
-                  "isFemale": true,
-                  "spouse": "unknown",
+                  "primary": {
+                    "name": "Bernie Bud Shulick"
+                  },
+                  "spouse": {
+                    "name": "unknown",
+                    "isFemale": true
+                  }
+                },
+                {
+                  "primary": {
+                    "name": "Thomas Tom Shulick"
+                  },
+                  "spouse": {
+                    "name": "Leslie unknown",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "unknown unknown"
-                    },
-                    {
-                      "name": "unknown unknown"
-                    }
-                  ]
-                },
-                {
-                  "name": "Cletus Skrabak"
-                },
-                {
-                  "name": "JoAnn Skrabak",
-                  "isFemale": true
-                },
-                {
-                  "name": "Danny Skrabak"
-                }
-              ]
-            },
-            {
-              "name": "Sarah Schmidt",
-              "isFemale": true,
-              "spouse": "James Creighton",
-              "children": [
-                {
-                  "name": "Kimberly Creighton",
-                  "isFemale": true
-                },
-                {
-                  "name": "unknown Creighton",
-                  "isFemale": true
-                },
-                {
-                  "name": "unknown Creighton",
-                  "isFemale": true
-                },
-                {
-                  "name": "unknown Creighton"
-                }
-              ]
-            },
-            {
-              "name": "Donald Donnie Schmidt",
-              "spouse": "Diane Sis Hoover",
-              "spouseIsFemale": true,
-              "children": [
-                {
-                  "name": "Denise Schmidt",
-                  "isFemale": true,
-                  "spouse": "John Price",
-                  "children": [
-                    {
-                      "name": "Benjamine Krason"
-                    },
-                    {
-                      "name": "Nicholas Krason"
-                    }
-                  ]
-                },
-                {
-                  "name": "Donald Schmidt",
-                  "spouse": "Stacey",
-                  "spouseIsFemale": true,
-                  "children": [
-                    {
-                      "name": "Kevin Schmidt"
-                    },
-                    {
-                      "name": "Jonathon James Schmidt"
+                      "primary": {
+                        "name": "Thomas Shulick"
+                      }
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "Carol Susie Schmidt",
-              "isFemale": true,
-              "spouse": "Ronald Wise",
+              "primary": {
+                "name": "Helen Schmidt",
+                "isFemale": true
+              },
+              "spouse": {
+                "name": "Cletus Skrabak"
+              },
               "children": [
                 {
-                  "name": "Bill Wise"
+                  "primary": {
+                    "name": "Judy Skrabak",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "unknown"
+                  },
+                  "children": [
+                    {
+                      "primary": {
+                        "name": "unknown unknown"
+                      }
+                    },
+                    {
+                      "primary": {
+                        "name": "unknown unknown"
+                      }
+                    }
+                  ]
                 },
                 {
-                  "name": "Tina Wise",
-                  "isFemale": true,
-                  "spouse": "Steven McCune"
+                  "primary": {
+                    "name": "Cletus Skrabak"
+                  }
                 },
                 {
-                  "name": "Ken Wise"
+                  "primary": {
+                    "name": "JoAnn Skrabak",
+                    "isFemale": true
+                  }
                 },
                 {
-                  "name": "Joyce Wise",
-                  "isFemale": true
+                  "primary": {
+                    "name": "Danny Skrabak"
+                  }
                 }
               ]
             },
             {
-              "name": "James Pete Carl Schmidt",
-              "spouse": "Barb Cosentino",
-              "spouseIsFemale": true,
+              "primary": {
+                "name": "Sarah Schmidt",
+                "isFemale": true
+              },
+              "spouse": {
+                "name": "James Creighton"
+              },
               "children": [
                 {
-                  "name": "James Schmidt Jr.",
-                  "spouse": "Kathy Kane",
-                  "spouseIsFemale": true,
+                  "primary": {
+                    "name": "Kimberly Creighton",
+                    "isFemale": true
+                  }
+                },
+                {
+                  "primary": {
+                    "name": "unknown Creighton",
+                    "isFemale": true
+                  }
+                },
+                {
+                  "primary": {
+                    "name": "unknown Creighton",
+                    "isFemale": true
+                  }
+                },
+                {
+                  "primary": {
+                    "name": "unknown Creighton"
+                  }
+                }
+              ]
+            },
+            {
+              "primary": {
+                "name": "Donald Donnie Schmidt"
+              },
+              "spouse": {
+                "name": "Diane Sis Hoover",
+                "isFemale": true
+              },
+              "children": [
+                {
+                  "primary": {
+                    "name": "Denise Schmidt",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "John Price"
+                  },
                   "children": [
                     {
-                      "name": "Ashleigh Schmidt",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Benjamine Krason"
+                      }
                     },
                     {
-                      "name": "Emily Schmidt",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Nicholas Krason"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "primary": {
+                    "name": "Donald Schmidt"
+                  },
+                  "spouse": {
+                    "name": "Stacey",
+                    "isFemale": true
+                  },
+                  "children": [
+                    {
+                      "primary": {
+                        "name": "Kevin Schmidt"
+                      }
                     },
                     {
-                      "name": "Kelly Schmidt",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Jonathon James Schmidt"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "primary": {
+                "name": "Carol Susie Schmidt",
+                "isFemale": true
+              },
+              "spouse": {
+                "name": "Ronald Wise"
+              },
+              "children": [
+                {
+                  "primary": {
+                    "name": "Bill Wise"
+                  }
+                },
+                {
+                  "primary": {
+                    "name": "Tina Wise",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Steven McCune"
+                  }
+                },
+                {
+                  "primary": {
+                    "name": "Ken Wise"
+                  }
+                },
+                {
+                  "primary": {
+                    "name": "Joyce Wise",
+                    "isFemale": true
+                  }
+                }
+              ]
+            },
+            {
+              "primary": {
+                "name": "James Pete Carl Schmidt"
+              },
+              "spouse": {
+                "name": "Barb Cosentino",
+                "isFemale": true
+              },
+              "children": [
+                {
+                  "primary": {
+                    "name": "James Schmidt Jr."
+                  },
+                  "spouse": {
+                    "name": "Kathy Kane",
+                    "isFemale": true
+                  },
+                  "children": [
+                    {
+                      "primary": {
+                        "name": "Ashleigh Schmidt",
+                        "isFemale": true
+                      }
+                    },
+                    {
+                      "primary": {
+                        "name": "Emily Schmidt",
+                        "isFemale": true
+                      }
+                    },
+                    {
+                      "primary": {
+                        "name": "Kelly Schmidt",
+                        "isFemale": true
+                      }
                     }
                   ]
                 }
@@ -990,241 +1575,379 @@
           ]
         },
         {
-          "name": "Dorothea Mary Schmidt",
-          "isFemale": true,
-          "spouse": "Leonard Hughes",
+          "primary": {
+            "name": "Dorothea Mary Schmidt",
+            "isFemale": true
+          },
+          "spouse": {
+            "name": "Leonard Hughes"
+          },
           "children": [
             {
-              "name": "Joanne Hughes",
-              "isFemale": true,
-              "spouse": "David Devore",
+              "primary": {
+                "name": "Joanne Hughes",
+                "isFemale": true
+              },
+              "spouse": {
+                "name": "David Devore"
+              },
               "children": [
                 {
-                  "name": "David Devore"
+                  "primary": {
+                    "name": "David Devore"
+                  }
                 },
                 {
-                  "name": "Donnie Devore"
+                  "primary": {
+                    "name": "Donnie Devore"
+                  }
                 }
               ]
             },
             {
-              "name": "Leonard Hughes",
-              "spouse": "Patricia unknown",
-              "spouseIsFemale": true,
+              "primary": {
+                "name": "Leonard Hughes"
+              },
+              "spouse": {
+                "name": "Patricia unknown",
+                "isFemale": true
+              },
               "children": [
                 {
-                  "name": "Daniel Hughes"
+                  "primary": {
+                    "name": "Daniel Hughes"
+                  }
                 },
                 {
-                  "name": "D (unknown) Hughes"
+                  "primary": {
+                    "name": "D (unknown) Hughes"
+                  }
                 }
               ]
             },
             {
-              "name": "Louis Hughes"
+              "primary": {
+                "name": "Louis Hughes"
+              }
             }
           ]
         },
         {
-          "name": "Louise Anna Barbara Schmidt",
-          "isFemale": true,
-          "spouse": "Howard Thomas Bloom",
+          "primary": {
+            "name": "Louise Anna Barbara Schmidt",
+            "isFemale": true
+          },
+          "spouse": {
+            "name": "Howard Thomas Bloom"
+          },
           "children": [
             {
-              "name": "Shirley Bloom",
-              "isFemale": true,
-              "spouse": "unknown Russell",
+              "primary": {
+                "name": "Shirley Bloom",
+                "isFemale": true
+              },
+              "spouse": {
+                "name": "unknown Russell"
+              },
               "children": [
                 {
-                  "name": "Debby Russell"
+                  "primary": {
+                    "name": "Debby Russell"
+                  }
                 }
               ]
             }
           ]
         },
         {
-          "name": "Louis Theodore John Schmidt",
-          "spouse": "Blanche Emmett Rushnock-Rushnak(?)",
-          "spouseIsFemale": true,
+          "primary": {
+            "name": "Louis Theodore John Schmidt"
+          },
+          "spouse": {
+            "name": "Blanche Emmett Rushnock-Rushnak(?)",
+            "isFemale": true
+          },
           "children": [
             {
-              "name": "Ewlyn Marvin Schmidt",
-              "spouse": "Patty Steele",
-              "spouseIsFemale": true,
+              "primary": {
+                "name": "Ewlyn Marvin Schmidt"
+              },
+              "spouse": {
+                "name": "Patty Steele",
+                "isFemale": true
+              },
               "children": [
                 {
-                  "name": "Karen Ann Schmidt",
-                  "isFemale": true,
-                  "spouse": "Jon Lemasters",
+                  "primary": {
+                    "name": "Karen Ann Schmidt",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Jon Lemasters"
+                  },
                   "children": [
                     {
-                      "name": "Bethany Anne Lemasters",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Bethany Anne Lemasters",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "Allison Grace Lemasters",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Allison Grace Lemasters",
+                        "isFemale": true
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Debra Marlene Schmidt",
-                  "isFemale": true,
-                  "spouse": "John Faber",
+                  "primary": {
+                    "name": "Debra Marlene Schmidt",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "John Faber"
+                  },
                   "children": [
                     {
-                      "name": "John Elwyn Faber"
+                      "primary": {
+                        "name": "John Elwyn Faber"
+                      }
                     },
                     {
-                      "name": "Sarah Marlene Faber",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Sarah Marlene Faber",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "Emily Ruth Faber",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Emily Ruth Faber",
+                        "isFemale": true
+                      }
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "Carl William Schmidt",
-              "spouse": "Joan Elaine Rimel",
-              "spouseIsFemale": true,
+              "primary": {
+                "name": "Carl William Schmidt"
+              },
+              "spouse": {
+                "name": "Joan Elaine Rimel",
+                "isFemale": true
+              },
               "children": [
                 {
-                  "name": "Sandra May Schmidt",
-                  "isFemale": true,
-                  "spouse": "Mark Alan Reidmiller",
+                  "primary": {
+                    "name": "Sandra May Schmidt",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Mark Alan Reidmiller"
+                  },
                   "children": [
                     {
-                      "name": "Jourdan Reidmiller",
-                      "isFemale": true,
-                      "spouse": "Larry Cookson"
+                      "primary": {
+                        "name": "Jourdan Reidmiller",
+                        "isFemale": true
+                      },
+                      "spouse": {
+                        "name": "Larry Cookson"
+                      }
                     },
                     {
-                      "name": "Courtney Reidmiller",
-                      "isFemale": true,
-                      "spouse": "Damian Kush"
+                      "primary": {
+                        "name": "Courtney Reidmiller",
+                        "isFemale": true
+                      },
+                      "spouse": {
+                        "name": "Damian Kush"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Beverly Sue Susie Schmidt",
-                  "isFemale": true,
-                  "spouse": "Matthew Rodriquez",
+                  "primary": {
+                    "name": "Beverly Sue Susie Schmidt",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Matthew Rodriquez"
+                  },
                   "children": [
                     {
-                      "name": "Alexandra Marie Rodriquez",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Alexandra Marie Rodriquez",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "Carlen Victoria Rodriquez",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Carlen Victoria Rodriquez",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "Matthew Carlos Rodriquez"
+                      "primary": {
+                        "name": "Matthew Carlos Rodriquez"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Sherri Lyn Schmidt",
-                  "isFemale": true,
-                  "spouse": "Robert Frederick Rick Peterson",
+                  "primary": {
+                    "name": "Sherri Lyn Schmidt",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "Robert Frederick Rick Peterson"
+                  },
                   "children": [
                     {
-                      "name": "Felisity Claudia Peterson",
-                      "isFemale": true
+                      "primary": {
+                        "name": "Felisity Claudia Peterson",
+                        "isFemale": true
+                      }
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "Marlene Mae Schmidt",
-              "isFemale": true
+              "primary": {
+                "name": "Marlene Mae Schmidt",
+                "isFemale": true
+              }
             }
           ]
         },
         {
-          "name": "Jacob McClintock Mac Schmidt",
-          "spouse": "Alice Cleveland",
-          "spouseIsFemale": true,
+          "primary": {
+            "name": "Jacob McClintock Mac Schmidt"
+          },
+          "spouse": {
+            "name": "Alice Cleveland",
+            "isFemale": true
+          },
           "children": [
             {
-              "name": "Donna Jean Schmidt",
-              "isFemale": true,
-              "spouse": "Doug Hess",
+              "primary": {
+                "name": "Donna Jean Schmidt",
+                "isFemale": true
+              },
+              "spouse": {
+                "name": "Doug Hess"
+              },
               "children": [
                 {
-                  "name": "Kim Hess",
-                  "isFemale": true,
+                  "primary": {
+                    "name": "Kim Hess",
+                    "isFemale": true
+                  },
                   "children": [
                     {
-                      "name": "unknown twins"
+                      "primary": {
+                        "name": "unknown twins"
+                      }
                     },
                     {
-                      "name": "unknown twins"
+                      "primary": {
+                        "name": "unknown twins"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Karen Hess",
-                  "isFemale": true,
-                  "spouse": "unknown",
+                  "primary": {
+                    "name": "Karen Hess",
+                    "isFemale": true
+                  },
+                  "spouse": {
+                    "name": "unknown"
+                  },
                   "children": [
                     {
-                      "name": "girl unknown",
-                      "isFemale": true
+                      "primary": {
+                        "name": "girl unknown",
+                        "isFemale": true
+                      }
                     },
                     {
-                      "name": "unknown unknown"
+                      "primary": {
+                        "name": "unknown unknown"
+                      }
                     }
                   ]
                 },
                 {
-                  "name": "Doug Hess"
+                  "primary": {
+                    "name": "Doug Hess"
+                  }
                 },
                 {
-                  "name": "Darrin Hess"
+                  "primary": {
+                    "name": "Darrin Hess"
+                  }
                 }
               ]
             },
             {
-              "name": "Richard Allen Schmidt"
+              "primary": {
+                "name": "Richard Allen Schmidt"
+              }
             }
           ]
         },
         {
-          "name": "George Whitesell Schmidt",
-          "spouse": "Mildred Camphire",
-          "spouseIsFemale": true,
+          "primary": {
+            "name": "George Whitesell Schmidt"
+          },
+          "spouse": {
+            "name": "Mildred Camphire",
+            "isFemale": true
+          },
           "children": [
             {
-              "name": "Louella Honey Girl Schmidt",
-              "isFemale": true
+              "primary": {
+                "name": "Louella Honey Girl Schmidt",
+                "isFemale": true
+              }
             },
             {
-              "name": "Barbara Schmidt",
-              "isFemale": true
+              "primary": {
+                "name": "Barbara Schmidt",
+                "isFemale": true
+              }
             },
             {
-              "name": "Jacqueline Schmidt",
-              "isFemale": true,
-              "spouse": "Eugene Madden"
+              "primary": {
+                "name": "Jacqueline Schmidt",
+                "isFemale": true
+              },
+              "spouse": {
+                "name": "Eugene Madden"
+              }
             },
             {
-              "name": "Mary Ann Schmidt",
-              "isFemale": true
+              "primary": {
+                "name": "Mary Ann Schmidt",
+                "isFemale": true
+              }
             }
           ]
         },
         {
-          "name": "Hilda Dorothea Schmidt",
-          "isFemale": true
+          "primary": {
+            "name": "Hilda Dorothea Schmidt",
+            "isFemale": true
+          }
         },
         {
-          "name": "First child Schmidt"
+          "primary": {
+            "name": "First child Schmidt"
+          }
         }
       ]
     }

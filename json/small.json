@@ -1,0 +1,47 @@
+{
+  "primary": {
+    "name": "Marlin Boltz"
+  },
+  "spouse": {
+    "name": "Karen Gillespie",
+    "isFemale": true
+  },
+  "children": [
+    {
+      "primary": {
+        "name": "Teresa Lynn Boltz",
+        "isFemale": true
+      },
+      "spouse": {
+        "name": "Jonathan Paul Rosenberg"
+      }
+    },
+    {
+      "primary": {
+        "name": "Christopher Dean Boltz"
+      },
+      "spouse": {
+        "name": "Jodie Anne Illig",
+        "isFemale": true
+      },
+      "children": [
+        {
+          "primary": {
+            "name": "Emily Grace Boltz",
+            "isFemale": true
+          }
+        },
+        {
+          "primary": {
+            "name": "Aiden Michael Boltz"
+          }
+        }
+      ]
+    },
+    {
+      "primary": {
+        "name": "Adam John Boltz"
+      }
+    }
+  ]
+}
